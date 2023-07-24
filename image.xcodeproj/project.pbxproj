@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		15AF66412A6EF3BE0020B25E /* ImagesListCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15AF66402A6EF3BE0020B25E /* ImagesListCell.swift */; };
+		15AF66432A6EF3E10020B25E /* ImagesListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15AF66422A6EF3E10020B25E /* ImagesListViewController.swift */; };
 		15EDE3772A6EF1EE00688F1F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15EDE3762A6EF1EE00688F1F /* AppDelegate.swift */; };
 		15EDE3792A6EF1EE00688F1F /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15EDE3782A6EF1EE00688F1F /* SceneDelegate.swift */; };
 		15EDE37B2A6EF1EE00688F1F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15EDE37A2A6EF1EE00688F1F /* ViewController.swift */; };
@@ -16,6 +18,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		15AF66402A6EF3BE0020B25E /* ImagesListCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagesListCell.swift; sourceTree = "<group>"; };
+		15AF66422A6EF3E10020B25E /* ImagesListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagesListViewController.swift; sourceTree = "<group>"; };
 		15EDE3732A6EF1EE00688F1F /* image.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = image.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		15EDE3762A6EF1EE00688F1F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		15EDE3782A6EF1EE00688F1F /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -40,6 +44,8 @@
 		15EDE36A2A6EF1EE00688F1F = {
 			isa = PBXGroup;
 			children = (
+				15AF66422A6EF3E10020B25E /* ImagesListViewController.swift */,
+				15AF66402A6EF3BE0020B25E /* ImagesListCell.swift */,
 				15EDE3752A6EF1EE00688F1F /* image */,
 				15EDE3742A6EF1EE00688F1F /* Products */,
 			);
@@ -139,6 +145,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				15EDE37B2A6EF1EE00688F1F /* ViewController.swift in Sources */,
+				15AF66432A6EF3E10020B25E /* ImagesListViewController.swift in Sources */,
+				15AF66412A6EF3BE0020B25E /* ImagesListCell.swift in Sources */,
 				15EDE3772A6EF1EE00688F1F /* AppDelegate.swift in Sources */,
 				15EDE3792A6EF1EE00688F1F /* SceneDelegate.swift in Sources */,
 			);
