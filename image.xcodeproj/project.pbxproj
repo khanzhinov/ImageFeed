@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		15A55B712A7042CA007D7D8B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 15A55B702A7042CA007D7D8B /* Assets.xcassets */; };
+		1554DE5D2A71736000545149 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1554DE5C2A71736000545149 /* Assets.xcassets */; };
 		15AF66412A6EF3BE0020B25E /* ImagesListCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15AF66402A6EF3BE0020B25E /* ImagesListCell.swift */; };
 		15AF66432A6EF3E10020B25E /* ImagesListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15AF66422A6EF3E10020B25E /* ImagesListViewController.swift */; };
 		15EDE3772A6EF1EE00688F1F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15EDE3762A6EF1EE00688F1F /* AppDelegate.swift */; };
@@ -17,7 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		15A55B702A7042CA007D7D8B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = "../../../../Downloads/Sprint8_-_Lesson_4_-_5_-_Add_Like_Button_to_TableViewCell-2/Image Feed/Assets.xcassets"; sourceTree = "<group>"; };
+		1554DE5C2A71736000545149 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = "../../../../Downloads/Sprint8_-_Lesson_4_-_5_-_Add_Like_Button_to_TableViewCell/Image Feed/Assets.xcassets"; sourceTree = "<group>"; };
 		15AF66402A6EF3BE0020B25E /* ImagesListCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagesListCell.swift; sourceTree = "<group>"; };
 		15AF66422A6EF3E10020B25E /* ImagesListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagesListViewController.swift; sourceTree = "<group>"; };
 		15EDE3732A6EF1EE00688F1F /* image.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = image.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -65,7 +65,7 @@
 				15EDE37C2A6EF1EE00688F1F /* Main.storyboard */,
 				15EDE3812A6EF1EF00688F1F /* LaunchScreen.storyboard */,
 				15EDE3842A6EF1EF00688F1F /* Info.plist */,
-				15A55B702A7042CA007D7D8B /* Assets.xcassets */,
+				1554DE5C2A71736000545149 /* Assets.xcassets */,
 			);
 			path = image;
 			sourceTree = "<group>";
@@ -129,7 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				15EDE3832A6EF1EF00688F1F /* LaunchScreen.storyboard in Resources */,
-				15A55B712A7042CA007D7D8B /* Assets.xcassets in Resources */,
+				1554DE5D2A71736000545149 /* Assets.xcassets in Resources */,
 				15EDE37E2A6EF1EE00688F1F /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
